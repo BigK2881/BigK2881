@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, ich bin Kirsten
+
+Ich bin Student im Bereich Wirtschaftsinformatik mit vertiefung in Data Engineering.  
+Hier ist mein Projekt rund um eine Big Data Batch-Datenarchitektur mit hilfe von:
+
+- Apache Spark & Datenpipelines
+- Docker- und Container-Architekturen
+- Elasticsearch / Kibana (ELK Stack)
+- Python, SQL & ETL-Workflows
+
+- an dem ich derzeit arbeite.
 
 <!--
 **BigK2881/BigK2881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
