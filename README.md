@@ -8,7 +8,7 @@ Hier ist mein Projekt rund um eine Big Data Batch-Datenarchitektur mit hilfe von
 - Elasticsearch / Kibana (ELK Stack)
 - Python, SQL & ETL-Workflows
 
-- an dem ich derzeit arbeite.
+an dem ich derzeit arbeite.
 
 <!--
 **BigK2881/BigK2881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
